@@ -1,5 +1,7 @@
 # GPT-3-in-Production
 
+For https://www.oreilly.com/live-events/gpt-3-in-production/0636920065944/
+
 ## javascript
 
 Shows how to do `completions` using the OpenAI API Node JS community library
